@@ -1,0 +1,6 @@
+C:/TouchGFXProjects/kurwaprosze/Core/Src/main.c:692:6:StartDefaultTask	8	static
+C:/TouchGFXProjects/kurwaprosze/Core/Src/main.c:712:6:secondTaskFunction	8	static
+C:/TouchGFXProjects/kurwaprosze/Core/Src/main.c:243:6:SystemClock_Config	88	static
+C:/TouchGFXProjects/kurwaprosze/Core/Src/main.c:137:5:main	120	static,ignoring_inline_asm
+C:/TouchGFXProjects/kurwaprosze/Core/Src/main.c:770:6:HAL_TIM_PeriodElapsedCallback	0	static
+C:/TouchGFXProjects/kurwaprosze/Core/Src/main.c:787:6:Error_Handler	0	static
