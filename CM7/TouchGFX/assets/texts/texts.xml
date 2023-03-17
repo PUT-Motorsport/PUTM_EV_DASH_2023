@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="texts.xsd" Version="4.21.1">
+  <Languages>
+    <Language Id="GB" />
+  </Languages>
+  <Texts>
+    <TextGroup Id="Group1" />
+    <TextGroup Id="Unsorted">
+      <Text Id="__SingleUse_XANP" Alignment="Center" TypographyId="Small">
+        <Translation Language="GB">Best</Translation>
+      </Text>
+      <Text Id="__SingleUse_EQ16" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">00:00.00</Translation>
+      </Text>
+      <Text Id="__SingleUse_BC15" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;d&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_7Z6K" Alignment="Right" TypographyId="Small">
+        <Translation Language="GB">Current&#10;</Translation>
+      </Text>
+      <Text Id="__SingleUse_D9YF" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">00:00.00</Translation>
+      </Text>
+      <Text Id="__SingleUse_9UNG" Alignment="Right" TypographyId="Default">
+        <Translation Language="GB">&lt;d&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_XN3X" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">0</Translation>
+      </Text>
+      <Text Id="__SingleUse_JQ2Z" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">&lt;d&gt; kW</Translation>
+      </Text>
+      <Text Id="__SingleUse_K1R5" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">000</Translation>
+      </Text>
+      <Text Id="__SingleUse_W8NX" Alignment="Center" TypographyId="Huge">
+        <Translation Language="GB">&lt;d&gt;</Translation>
+      </Text>
+    </TextGroup>
+  </Texts>
+  <Typographies>
+    <Typography Id="Default" Font="verdana.ttf" Size="60" Bpp="4" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Large" Font="verdana.ttf" Size="80" Bpp="4" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Small" Font="verdana.ttf" Size="40" Bpp="4" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Huge" Font="verdana.ttf" Size="180" Bpp="4" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="0-9" />
+  </Typographies>
+</TextDatabase>
